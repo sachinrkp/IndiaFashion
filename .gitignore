@@ -1,0 +1,5 @@
+src/models/*
+src/data/*
+src/tf_logs/*
+src/docs/build/*
+src/New-Categories-Images/*

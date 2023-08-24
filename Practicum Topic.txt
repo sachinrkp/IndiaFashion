@@ -1,0 +1,19 @@
+# MCM PRACTICUM
+__________________________________________________________________
+     Topic: IndiaFashion: Ethnic Apparel Classification Model
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Around 1.3 billion people are living in India and shopping for apparel online is very common these days. 
+India has so much diversified Ethnic apparel in its culture which can be categorised using CNN models.
+
+In the lifestyle category, most of the apparel classification models are currently available for Western 
+Wear and there are very few classification models for Indian Ethnic apparel. 
+So, there is a need for a classification model which targets specifically Indian Ethnic Apparel.
+
+So, this might be an interesting area for study. We plan to add more subcategories to the existing 
+IndoFashion dataset with different augmentation techniques and train the pre-existing models along 
+with additional attributes like the colours, and tags of the apparel images.
+
+Authors :
+Sachin Patel
+Sneha Yadav
