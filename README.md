@@ -130,13 +130,14 @@ drive.mount('/content/drive')
 !python /content/IndoFashion/img_trainer.py -m test --model_name my_model -a resnet50
 
 
+
 Saving the model
 from google.colab import files
 
-# Define the path to the model file in Colab environment
+Define the path to the model file in Colab environment
 colab_model_path = "/content/IndoFashion/models/my_model.pt"
 
-# Download the model file
+Download the model file
 files.download(colab_model_path)
 
 
